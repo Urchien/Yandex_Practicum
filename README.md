@@ -1,2 +1,2 @@
-# Ya_practicum_sprint_2
-The Yandex Practicum training project. Sprint 2
+# Yandex_Practicum
+The Yandex Practicum training projects.
