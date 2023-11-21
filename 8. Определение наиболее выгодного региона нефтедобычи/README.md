@@ -37,13 +37,13 @@
 
 ## Примененные инструменты
 
--Python
--Pandas
--Numpy
--Matplotlib
--Seaborn
--Scikit-learn
--Bootstrap
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Bootstrap
 
 ## Результаты исследования
 
